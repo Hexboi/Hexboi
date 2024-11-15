@@ -1,7 +1,6 @@
 ## Hi there 👋
 
-Just an Offensive Security Boi sharing some (maybe) useful scripts  
-
+Just a boi who likes OffSec, sharing some (maybe) useful scripts
 
 ☕ This repo was brought to you by caffeine and questionable decisions
 
