@@ -1,10 +1,16 @@
 ## Hi there 👋
 
+Just an Offensive Security Boi sharing some (maybe) useful scripts  
+
+
+☕ This repo was brought to you by caffeine and questionable decisions
+
+🔭  Fork it, clone it, pull it – I promise I’ve tested it... once... maybe
+
+
+
+
 <!--
-**Hexboi/Hexboi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
